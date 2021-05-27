@@ -20,7 +20,7 @@ int main()
         printf("\n El formato de hora es correcto")
     ]
     else 
-    [
+    [ // No puedes usar estos corchetes deben ser llaves
         printf("\n El formato de hora es incorrecto")
     ]
 
